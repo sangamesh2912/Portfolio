@@ -77,7 +77,12 @@ export default function App() {
         </section>
 
         <section>
-          <h2 className="section-title">Contact</h2>
+          <h2 className="section-title">Contact</h2>                      
+
+
+
+
+          
           <div className="card">
             <p>📧 sangamesh@example.com</p>
             <p>📞 +91 XXXXXXXXXX</p>
